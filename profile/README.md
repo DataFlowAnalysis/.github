@@ -23,6 +23,8 @@ More information can be found in these key publications:
 * S. Seifermann, R. Heinrich, D. Werle, and R. Reussner, "Detecting violations of access control and information flow policies in data flow diagrams", in *Journal of Systems and Software (JSS)*, vol. 184, Elsevier, 2022, doi: [10.1016/j.jss.2021.111138](https://doi.org/10.1016/j.jss.2021.111138).
 * S. Seifermann, R. Heinrich, D. Werle, and R. Reussner, "A Unified Model to Detect Information Flow and Access Control Violations in Software Architectures", in *18th International Conference on Security and Cryptography (SECRYPT)*, SciTePress, 2021, doi: [10.5220/0010515300260037](https://doi.org/10.5220/0010515300260037).
 * S. Hahner, S. Seifermann, R. Heinrich, M. Walter, T. Bureš, and P. Hnětynka, "Modeling Data Flow Constraints for Design-Time Confidentiality Analyses", presented at *18th International Conference on Software Architecture Companion (ICSA)*, IEEE, 2021, doi: [10.1109/ICSA-C52384.2021.00009](https://doi.org/10.1109/ICSA-C52384.2021.00009).
+* S. Seifermann, R. Heinrich, and R. Reussner, "Data-Driven Software Architecture for Analyzing Confidentiality", in: *International Conference on Software Architecture (ICSA)*, IEEE, 2019, doi: [10.1109/ICSA.2019.00009](https://doi.org/10.1109/ICSA.2019.00009).
+
 
 ## Structure
 
