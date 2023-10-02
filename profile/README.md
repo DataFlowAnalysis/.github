@@ -41,8 +41,11 @@ The following table shows the structure of the analysis. The most important repo
 
 ## Extensions
 
-*Work in Progress: This section will be updated with relevant information about [ABUNAI](https://github.com/abunai-dev) and [MDPA](https://github.com/Model-Based-Data-Protection-Assessments) once all relevant repositories have been moved.*
+There are currently two extensions of the data flow analysis available:
+
+* [ABUNAI](https://github.com/abunai-dev) stands for *Architecture-Based Uncertainty-Aware Confidentiality AnalysIs* and supports the modeling and analysis of uncertainty and its impact on confidentiality. By combining the data flow analysis with architecture-based uncertainty propagation, predictions on the interaction of uncertainty and confidentiality can be made.
+* [MDPA](https://github.com/Model-Based-Data-Protection-Assessments) provides *Model-Based Data Protection Assessments*. By incorporating legal information from the GDPR, experts can make statements about data privacy from an software architectural viewpoint.
 
 ## Getting Started
 
-*Work in Progress: This section will be updated with relevant information on the build and update site once all relevant repositories have been moved.*
+To get started, please visit the core repository of the [DataFlowAnalysis](https://github.com/DataFlowAnalysis/DataFlowAnalysis). [This recent publication](https://doi.org/10.48550/arXiv.2308.01645) also provides a good overview of the analysis. All main repositories' artifacts are available on our Eclipse [updatesite](https://dataflowanalysis.github.io/updatesite/) to be directly installed into the [Eclipse Modeling Framework](https://eclipse.dev/modeling/emf/).
