@@ -48,4 +48,6 @@ There are currently two extensions of the data flow analysis available:
 
 ## Getting Started
 
-To get started, please visit the core repository of the [DataFlowAnalysis](https://github.com/DataFlowAnalysis/DataFlowAnalysis). [This recent publication](https://doi.org/10.48550/arXiv.2308.01645) also provides a good overview of the analysis. All main repositories' artifacts are available on our Eclipse [updatesite](https://dataflowanalysis.github.io/updatesite/) to be directly installed into the [Eclipse Modeling Framework](https://eclipse.dev/modeling/emf/).
+The easiest way to get started is by downloading our ready-to-use [Eclipse product](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/nightly/).
+Alternatively, all main repositories' artifacts are available on our Eclipse [updatesite](https://dataflowanalysis.github.io/updatesite/) to be directly installed into the [Eclipse Modeling Framework](https://eclipse.dev/modeling/emf/), see this [guide](https://github.com/DataFlowAnalysis/DataFlowAnalysis#installation).
+[This recent publication](https://doi.org/10.48550/arXiv.2308.01645) also provides a good overview of the analysis.
