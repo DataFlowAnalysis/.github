@@ -1,5 +1,5 @@
 <p align="center"> 
-	<a href="https://github.com/dataflowanalysis#getting-started"><img alt="Data Flow Analysis" src="profile/coffeeflowanalysis.png"></a>
+	<a href="#getting-started"><img alt="Data Flow Analysis" src="profile/coffeeflowanalysis.png"></a>
 </p>
 
 # Data Flow Analysis
