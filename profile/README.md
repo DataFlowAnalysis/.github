@@ -46,10 +46,10 @@ There are currently two extensions of the data flow analysis available:
 
 ## Getting Started
 
-[![Eclipse Product](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/product/build.yml?label=Product&logo=eclipseide&style=flat-square)](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/)
+[![Eclipse Product](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/product/build.yml?label=Product&logo=eclipseide&style=flat-square)](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/releases/)
 [![Eclipse Updatesite](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/main.yml?label=Updatesite&logo=eclipseide&style=flat-square)](https://dataflowanalysis.github.io/updatesite/)
 [![Web Editor](https://img.shields.io/badge/Web%20Editor-Online-blue?style=flat-square&logo=github)](https://dataflowanalysis.github.io/WebEditor/)
 
-The easiest way to get started is by downloading our ready-to-use [Eclipse product](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/).
+The easiest way to get started is by downloading our ready-to-use [Eclipse product](https://updatesite.palladio-simulator.com/DataFlowAnalysis/releases/).
 Alternatively, all main repositories' artifacts are available on our Eclipse [updatesite](https://dataflowanalysis.github.io/updatesite/) to be directly installed into the [Eclipse Modeling Framework](https://eclipse.dev/modeling/emf/), see this [guide](https://github.com/DataFlowAnalysis/DataFlowAnalysis#installation).
 [This recent publication](https://doi.org/10.48550/arXiv.2308.01645) also provides a good overview of the analysis.
