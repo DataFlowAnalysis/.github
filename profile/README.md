@@ -16,7 +16,7 @@ Our analysis uses *label propagation* to analyze the characteristics of data flo
 * Are there any data flows that merge two distinct types of data that would void anonymity?
 
 More information can be found in these key publications:
-
+* N. Boltz, S. Hahner, et al., "An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security", in Software Architecture, Springer, 2024, [accepted, to appear](https://sebastianhahner.de/publications/2024/BoltzHahner2024_AnExtensibleFrameworkForArchitectureBasedDataFlowAnalysisForInformationSecurity.pdf)
 * F. Schwickerath, N. Boltz, S. Hahner, M. Walter, C. Gerking, and R. Heinrich, "Tool-Supported Architecture-Based Data Flow Analysis for Confidentiality", presented at *17th European Conference on Software Architecture (ECSA), Tool & Demo Track*, Preprint, 2023, doi: [10.48550/arXiv.2308.01645](https://doi.org/10.48550/arXiv.2308.01645).
 * S. Seifermann, R. Heinrich, D. Werle, and R. Reussner, "Detecting violations of access control and information flow policies in data flow diagrams", in *Journal of Systems and Software (JSS)*, vol. 184, Elsevier, 2022, doi: [10.1016/j.jss.2021.111138](https://doi.org/10.1016/j.jss.2021.111138).
 * S. Seifermann, R. Heinrich, D. Werle, and R. Reussner, "A Unified Model to Detect Information Flow and Access Control Violations in Software Architectures", in *18th International Conference on Security and Cryptography (SECRYPT)*, SciTePress, 2021, doi: [10.5220/0010515300260037](https://doi.org/10.5220/0010515300260037).
