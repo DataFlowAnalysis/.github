@@ -16,6 +16,8 @@ Our analysis uses *label propagation* to analyze the characteristics of data flo
 * Does the access to sensitive data follow Role-based Access Control (RBAC)?
 * Are there any data flows that merge two distinct types of data that would void anonymity?
 
+## Publications
+
 The data flow analysis framework is presented in this **key publication**: 
 * N. Boltz, S. Hahner, C. Gerking, R. Heinrich, "An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security", in Software Architecture, Springer, 2024, [accepted, to appear](https://sebastianhahner.de/publications/2024/BoltzHahner2024_AnExtensibleFrameworkForArchitectureBasedDataFlowAnalysisForInformationSecurity.pdf)
 
