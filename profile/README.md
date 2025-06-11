@@ -17,7 +17,7 @@ It is released under a permissive open-source license, developed and maintained 
 The framework is used in various research projects including [KASTEL](https://www.kastel.kit.edu/), [ANYMOS](https://www.anymos.de/), [SofDCar](https://sofdcar.de/), [Trust 4.0](https://github.com/Trust40-Project), and [FluidTrust](https://github.com/FluidTrust).
 For more information, please see [dataflowanalysis.org](https://dataflowanalysis.org/).
 
-By analyzing all possible data flows in [data flow diagrams](https://en.wikipedia.org/wiki/Data-flow_diagram) and other [software architecture models](https://www.palladio-simulator.com/), we can identify information security issues, e.g., confidentiality violations. Exemplary questions are:
+By analyzing all possible data flows in [data flow diagrams](https://en.wikipedia.org/wiki/Data-flow_diagram) and other [software architecture models](https://www.palladio-simulator.com/), we can identify information security issues like confidentiality violations. Exemplary questions are:
 
 * Does personal data flow to unauthorized locations, violating the GDPR?
 * Does data leave an internal server without being encrypted first?
@@ -30,7 +30,7 @@ ECSA, Springer, 2024, doi: [10.1007/978-3-031-66326-0_21](https://doi.org/10.100
 
 ## Project Structure
 
-The following table shows the structure of the analysis. The most important repositories are pinned below.
+The following table shows the structure of the extensible analysis framework. The most important repositories are pinned below.
 
 | # | Repository | Description | Status |
 | - | ---------- | ----------- | ------ |
