@@ -1,5 +1,5 @@
 <p align="center"> 
-	<a href="#getting-started"><img alt="Data Flow Analysis" src="coffeeflowanalysis.png"></a>
+	<a href="#getting-started"><img alt="Data Flow Analysis" src="dfa-artwork.png"></a>
 </p>
 
 Given today's interconnection of systems of systems and the growing demand for confidential and privacy-preserving data processing, analyzing software systems and finding violations at an early stage of their development is crucial. *Data Flow Diagrams (DFD)* were proposed for such structural analysis already more than [40 years ago](https://en.wikipedia.org/wiki/Structured_analysis). Until recently, however, there was a lack of both the diagram's expressiveness and the analysis capabilities to make statements about software systems from a software architectural point of view.
