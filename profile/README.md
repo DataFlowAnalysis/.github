@@ -2,7 +2,7 @@
 	<a href="#getting-started"><img alt="Data Flow Analysis" src="dfa-artwork.png"></a>
 </p>
 
-## DFA – The Karlsruhe Data Flow Diagram Analysis
+## xDECAF – An extensible data flow diagram constraint analysis framework for information security
 
 [![Eclipse Product](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/product/build.yml?label=Product&logo=eclipseide&style=flat-square)](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/releases/)
 [![Eclipse Updatesite](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/main.yml?label=Updatesite&logo=eclipseide&style=flat-square)](https://dataflowanalysis.github.io/updatesite/)
@@ -12,7 +12,7 @@
 [![Online Editor](https://img.shields.io/badge/Online%20Editor-Available-teal?style=flat-square&logo=github)](https://editor.dataflowanalysis.org)
 
 
-The Karlsruhe Data Flow Diagram Analysis (DFA) is an extensible framework for data flow analysis in information security.
+**xDECAF** is an extensible framework for data flow analysis in information security.
 It is released under a permissive open-source license, developed and maintained by the [DSiS group](https://dsis.kastel.kit.edu/) from the Karlsruhe Institute of Technology (KIT), and subject to [active research](https://dataflowanalysis.org/publications/).
 The framework is used in various research projects including [KASTEL](https://www.kastel.kit.edu/), [ANYMOS](https://www.anymos.de/), [SofDCar](https://sofdcar.de/), [Trust 4.0](https://github.com/Trust40-Project), and [FluidTrust](https://github.com/FluidTrust).
 For more information, please see [dataflowanalysis.org](https://dataflowanalysis.org/).
