@@ -6,7 +6,7 @@
 ## An extensible data flow diagram constraint analysis framework for information security
 
 [![Eclipse Product](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/product/build.yml?label=Product&logo=eclipseide&style=flat-square)](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/releases/)
-[![Eclipse Updatesite](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/main.yml?label=Updatesite&logo=eclipseide&style=flat-square)](https://dataflowanalysis.github.io/updatesite/)
+[![Eclipse Updatesite](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/publish-nightly.yml?label=Updatesite&logo=eclipseide&style=flat-square)](https://dataflowanalysis.github.io/updatesite/)
 [![Release](https://img.shields.io/github/v/release/DataFlowAnalysis/DataFlowAnalysis?style=flat-square&label=Release&logo=eclipseide)](https://dataflowanalysis.org/download/)
 [![Documentation](https://img.shields.io/badge/Documentation-Online-green?style=flat-square&logo=GitBook&logoColor=white)](https://dataflowanalysis.org/wiki/)
 [![Examples](https://img.shields.io/badge/Examples-24-purple?style=flat-square&logo=UML&logoColor=white)](https://dataflowanalysis.org/examples/)
@@ -15,7 +15,7 @@
 
 **xDECAF** is an extensible framework for data flow analysis in information security.
 It is released under a permissive open-source license, developed and maintained by the [DSiS group](https://dsis.kastel.kit.edu/) from the Karlsruhe Institute of Technology (KIT), and subject to [active research](https://dataflowanalysis.org/publications/).
-The framework is used in various research projects including [KASTEL](https://www.kastel.kit.edu/), [ANYMOS](https://www.anymos.de/), [SofDCar](https://sofdcar.de/), [Trust 4.0](https://github.com/Trust40-Project), and [FluidTrust](https://github.com/FluidTrust).
+The framework is used in various research projects, including [KASTEL](https://www.kastel.kit.edu/), [ANYMOS](https://www.anymos.de/), [SofDCar](https://sofdcar.de/), [Trust 4.0](https://github.com/Trust40-Project), and [FluidTrust](https://github.com/FluidTrust).
 For more information, documentation, publications, and usage examples, please see [dataflowanalysis.org](https://dataflowanalysis.org/).
 
 By analyzing all possible data flows in [data flow diagrams](https://en.wikipedia.org/wiki/Data-flow_diagram) and other [software architecture models](https://www.palladio-simulator.com/), we can identify information security issues like confidentiality violations. Exemplary questions are:
@@ -35,8 +35,8 @@ The following table shows the structure of the extensible analysis framework. Th
 
 | # | Repository | Description | Status |
 | - | ---------- | ----------- | ------ |
-| 1 | [DataFlowAnalysis](https://github.com/DataFlowAnalysis/DataFlowAnalysis) | The main repository contains the analysis, converter logic, example models, and all documentation. | [![Status](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/main.yml?label=&logo=github&style=flat-square)](https://github.com/DataFlowAnalysis/DataFlowAnalysis/actions) |
-| 4 | [WebEditor](https://github.com/DataFlowAnalysis/WebEditor) | With this [online available](https://editor.dataflowanalysis.org) editor, data flow diagrams can be modeled and analyzed within your browser. | [![Status](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/WebEditor/pages.yaml?label=&logo=github&style=flat-square)](https://github.com/DataFlowAnalysis/WebEditor/actions) |
+| 1 | [DataFlowAnalysis](https://github.com/DataFlowAnalysis/DataFlowAnalysis) | The main repository contains the analysis, converter logic, example models, and all documentation. | [![Status](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/DataFlowAnalysis/publish-nightly.yml?label=&logo=github&style=flat-square)](https://github.com/DataFlowAnalysis/DataFlowAnalysis/actions) |
+| 2 | [OnlineEditor](https://github.com/DataFlowAnalysis/OnlineEditor) | Contains the [online available](https://editor.dataflowanalysis.org) editor frontend and analysis backend, which enable the modeling and analysis of DFDs in the browser. | [![Status](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/OnlineEditor/pages.yaml?label=&logo=github&style=flat-square)](https://github.com/DataFlowAnalysis/WebEditor/actions) |
 | 3 | [PCM-DataFlowAnalysis-Extension](https://github.com/DataFlowAnalysis/PCM-DataFlowAnalysis-Extension) | This extension consists of meta models for annotating [Palladio](https://www.palladio-simulator.com/) software architecture models than can serve as analysis input. | [![Status](https://img.shields.io/github/actions/workflow/status/DataFlowAnalysis/PCM-DataFlowAnalysis-Extension/main.yml?label=&logo=github&style=flat-square)](https://github.com/DataFlowAnalysis/PCM-DataFlowAnalysis-Extension/actions) |
 
 ## Getting Started
