@@ -44,4 +44,4 @@ The following table shows the structure of the extensible analysis framework. Th
 Please see the [download](https://dataflowanalysis.org/download/) page for all relevant information.
 The easiest way to get started is by downloading our ready-to-use [Eclipse product](https://updatesite.palladio-simulator.com/DataFlowAnalysis/product/releases/).
 Alternatively, all main repositories' artifacts are available on our Eclipse [updatesite](https://dataflowanalysis.github.io/updatesite/) to be directly installed into the [Eclipse Modeling Framework](https://eclipse.dev/modeling/emf/).
-After downloading, please see the [getting started](https://dataflowanalysis.org/wiki/gettingstarted.html) guide.
+After downloading, please see the [getting started](https://dataflowanalysis.org/wiki/) guide.
